@@ -1,0 +1,35 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Article 1",
+        "contents": "This is the first article.",
+        "created_by": "user1",
+        "is_published": true,
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "title": "Article 2",
+        "contents": "This is the second article.",
+        "created_by": "user2",
+        "is_published": false,
+        "created_at": "2024-01-02T10:00:00Z",
+        "updated_at": "2024-01-02T10:00:00Z"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "user1",
+        "password": "password1"
+      },
+      {
+        "id": 2,
+        "username": "user2",
+        "password": "password2"
+      }
+    ]
+  }
+  
